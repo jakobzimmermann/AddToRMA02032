@@ -1,0 +1,9 @@
+C:\Users\Jakob\Documents\Visual Studio 2008\Projects\AddToRMA02032\AddToRMA02032\bin\Debug\AddToRMA02032.exe
+C:\Users\Jakob\Documents\Visual Studio 2008\Projects\AddToRMA02032\AddToRMA02032\bin\Debug\AddToRMA02032.pdb
+C:\Users\Jakob\Documents\Visual Studio 2008\Projects\AddToRMA02032\AddToRMA02032\bin\Debug\AddToRMA02032.xml
+C:\Users\Jakob\Documents\Visual Studio 2008\Projects\AddToRMA02032\AddToRMA02032\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jakob\Documents\Visual Studio 2008\Projects\AddToRMA02032\AddToRMA02032\obj\Debug\AddToRMA02032.Resources.resources
+C:\Users\Jakob\Documents\Visual Studio 2008\Projects\AddToRMA02032\AddToRMA02032\obj\Debug\AddToRMA02032.vbproj.GenerateResource.Cache
+C:\Users\Jakob\Documents\Visual Studio 2008\Projects\AddToRMA02032\AddToRMA02032\obj\Debug\AddToRMA02032.exe
+C:\Users\Jakob\Documents\Visual Studio 2008\Projects\AddToRMA02032\AddToRMA02032\obj\Debug\AddToRMA02032.xml
+C:\Users\Jakob\Documents\Visual Studio 2008\Projects\AddToRMA02032\AddToRMA02032\obj\Debug\AddToRMA02032.pdb
